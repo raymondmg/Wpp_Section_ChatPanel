@@ -29,7 +29,6 @@ D:\WangWorkspace\Wpp_Section_ChatPanel\Wpp_Section_ChatPanel\bin\zh-Hans\System.
 D:\WangWorkspace\Wpp_Section_ChatPanel\Wpp_Section_ChatPanel\bin\zh-Hans\System.Web.WebPages.resources.dll
 D:\WangWorkspace\Wpp_Section_ChatPanel\Wpp_Section_ChatPanel\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 D:\WangWorkspace\Wpp_Section_ChatPanel\Wpp_Section_ChatPanel\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-D:\WangWorkspace\Wpp_Section_ChatPanel\Wpp_Section_ChatPanel\obj\Debug\Wpp_Section_ChatPanel.csprojResolveAssemblyReference.cache
 D:\WangWorkspace\Wpp_Section_ChatPanel\Wpp_Section_ChatPanel\obj\Debug\Wpp_Section_ChatPanel.dll
 D:\WangWorkspace\Wpp_Section_ChatPanel\Wpp_Section_ChatPanel\obj\Debug\Wpp_Section_ChatPanel.pdb
 D:\WangWorkspace\Wpp_Section_ChatPanel\Wpp_Section_ChatPanel\bin\Microsoft.AspNet.SignalR.Core.dll
